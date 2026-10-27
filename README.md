@@ -61,7 +61,5 @@ Document the test cases you actually performed, including AI responses, memory b
 
 The workflow requires a running n8n instance and valid credentials. AI responses may be inaccurate and should be reviewed.
 
-## Author
 
-Manish Verma
 
