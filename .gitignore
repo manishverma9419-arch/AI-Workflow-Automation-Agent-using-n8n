@@ -1,1 +1,32 @@
 
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Credentials and private keys
+credentials.json
+secrets/
+*.pem
+*.key
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
